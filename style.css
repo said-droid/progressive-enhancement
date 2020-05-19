@@ -1,0 +1,95 @@
+#title {
+    text-align: center;
+}
+
+#body {
+    max-width: 90%;
+    margin: auto;
+    font-family: sans-serif; "open sans";
+    color: darkolivegreen;
+    background: linear-gradient(90deg, rgb(46, 54, 61), rgb(104, 150, 196));
+    background-image: url("https://www.chinadiscovery.com/assets/images/articles/china-rice-terraces/china-rice-terrace-820.jpg");
+    background-repeat: no-repeat;
+    height: 100%;
+    background-position: bottom right;
+    background-size: cover;
+}
+
+img {
+    width: 50%;
+    height: 50%;
+}
+
+table, th, td {
+    border: 1px solid black;
+    text-align: center;
+}
+
+a {
+    color: darkblue;
+}
+
+#good {
+    text-transform: capitalize;
+    color: green;
+}
+
+#bad {
+    text-transform: capitalize;
+    color: red;
+}
+
+a:hover {
+    color: lightblue;
+}
+
+a:visited {
+    color: yellow;
+}
+
+blockquote {
+    text-align: center;
+    margin: auto;
+}
+
+q{
+    width: 50%;
+    margin: 80px auto;
+    font-size: 160%;
+    background-color: lightgrey;
+    border-left: 3px;
+    padding-left: 30px;
+    font-style: italic;
+}
+
+#villagers {
+    border-left: 3px solid sandybrown;
+}
+
+#farmer {
+    border-left: 3px solid lavenderblush;
+}
+
+header:first-child h1 {
+    background-color: #F0FFFF;
+}
+
+tr:nth-child(even) {
+    background-color: grey;
+}
+
+tr:nth-child(odd) {
+    background-color: white;
+}
+
+p:first-of-type {
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
