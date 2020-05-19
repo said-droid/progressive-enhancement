@@ -1,5 +1,6 @@
-#title {
+.title {
     text-align: center;
+    background-color: #F0FFFF;
 }
 
 #body {
@@ -29,12 +30,12 @@ a {
     color: darkblue;
 }
 
-#good {
+.good {
     text-transform: capitalize;
     color: green;
 }
 
-#bad {
+.bad {
     text-transform: capitalize;
     color: red;
 }
@@ -62,16 +63,12 @@ q{
     font-style: italic;
 }
 
-#villagers {
+.villagers {
     border-left: 3px solid sandybrown;
 }
 
-#farmer {
+.farmer {
     border-left: 3px solid lavenderblush;
-}
-
-header:first-child h1 {
-    background-color: #F0FFFF;
 }
 
 tr:nth-child(even) {
