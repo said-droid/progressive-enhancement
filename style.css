@@ -3,15 +3,14 @@
     background-color: #F0FFFF;
 }
 
-#body {
+body {
     max-width: 90%;
     margin: auto;
     font-family: sans-serif; "open sans";
     color: darkolivegreen;
     background: linear-gradient(90deg, rgb(46, 54, 61), rgb(104, 150, 196));
-    background-image: url("https://www.chinadiscovery.com/assets/images/articles/china-rice-terraces/china-rice-terrace-820.jpg");
+    /*background-image: url("asianfarm.jpeg");*/
     background-repeat: no-repeat;
-    height: 100%;
     background-position: bottom right;
     background-size: cover;
 }
